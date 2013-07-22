@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var dns = require('dns');
 var colors = require('colors');
 var funwords = require('./funwords');
